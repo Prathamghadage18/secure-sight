@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useEffect, useState } from 'react'
 import IncidentPlayer from './IncidentPlayer'
 import IncidentList from './IncidentList'
